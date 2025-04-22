@@ -2,7 +2,7 @@
 
 WPILib is normally built with Gradle, however for some systems, such as Linux based coprocessors, Gradle doesn't work correctly, especially if cscore is needed, which requires OpenCV. Furthermore, the CMake build can be used for C++ development because it provides better build caching compared to Gradle. We provide the CMake build for these cases. Although macOS is supported, these docs will only go over Linux and Windows builds, but should mostly work for macOS as well. If you are stuck, you can look at the GitHub workflows for any OS to see how it works.
 
-## Libraries that get built
+## Libraries that get buil
 * apriltag
 * cameraserver
 * cscore
