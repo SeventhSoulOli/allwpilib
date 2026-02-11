@@ -4,7 +4,7 @@
 [![C++ Documentation](https://img.shields.io/badge/documentation-c%2B%2B-blue)](https://github.wpilib.org/allwpilib/docs/development/cpp/)
 [![Java Documentation](https://img.shields.io/badge/documentation-java-orange)](https://github.wpilib.org/allwpilib/docs/development/java/)
 
-Welcome to the WPject. This repository contains the HAL, WPILibJ, and WPILibC projects. Thee are the core libraries for creating robot programs for the roboRIO.
+Welcome to the WPject. This repository contains  HAL, WPILibJ, and WPILibC projects. Thee are the core libraries for creating robot programs for the roboRIO.
 
 - [WPILib PProject](#wpilib-project)
   - [WPILib Mission](#wpilib-mission)
