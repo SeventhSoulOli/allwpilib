@@ -6,8 +6,7 @@
 for creating robot programs for the roboRIO.
 
 - [WPILib PProject](#wpilib-project)
-  - [WPILib Mission](#wpilib-mission)
-- [Building WPILib](#building-wpilib)
+  - [WPILib Mission](#wp
   - [Requirements](#requirements)
   - [Setup](#setup)
   - [Building](#building)
